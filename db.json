@@ -1,0 +1,42 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "username": "Admin1",
+      "mail": "admin@gmail.com",
+      "password": "12345",
+      "score": 0
+    },
+    {
+      "username": "prueba1",
+      "mail": "prueba@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "username": "prueba2",
+      "mail": "prueba2@gmail.com",
+      "password": "1234",
+      "score": 0,
+      "id": 3
+    },
+    {
+      "score": 0,
+      "id": 4
+    },
+    {
+      "username": "aaaaa",
+      "mail": "popo@gmail.com",
+      "password": "13254",
+      "score": 0,
+      "id": 43
+    },
+    {
+      "username": "Pepito",
+      "mail": "Pepito@mail.cl",
+      "password": "1234",
+      "score": 0,
+      "id": 44
+    }
+  ]
+}
