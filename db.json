@@ -37,6 +37,13 @@
       "password": "1234",
       "score": 0,
       "id": 44
+    },
+    {
+      "username": "adminPaes",
+      "mail": "adminPaes@gmail.com",
+      "password": "1234",
+      "score": 0,
+      "id": 45
     }
   ]
 }
